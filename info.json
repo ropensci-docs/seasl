@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ee88920f330d0cfb4b88f320529415cf1ef32610",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-06 18:41:03",
+    "files": 4,
+    "merge": false,
+    "message": "fix #8 fix csl_style_load\n"
+  },
+  "remote": "https://github.com/ropensci/seasl",
+  "pkg": "seasl"
+}
